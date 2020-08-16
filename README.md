@@ -1,6 +1,8 @@
 # TecHacks-Room-Splitting
 This project was submitted to TechHacks 2020.
 
+We added functionalities to this spreadsheet for part of the project: https://docs.google.com/spreadsheets/d/1ilNLQiQ6GHY5aFmHLlx2xoMX4QFgdmoPe-r2vbMwvbc/edit?usp=sharing
+
   We would like to submit this project to the finance track.
   
   Have you ever had to try to venmo everyone back for a complicated pandemic grocery run for your neighbors? The Rochesters, Yangs, and Kims are splitting toilet paper with you, but the Kims, Parks, and Lees are splitting hand sanitizer with you? Costco is great for buying in bulk, but that is just too much to keep track of!
